@@ -2,11 +2,7 @@ import React from 'react';
 import SolarCalculator from './components/SolarCalculator';
 
 function App() {
-  return (
-    <div>
-      <SolarCalculator />
-    </div>
-  );
+  return <SolarCalculator />;
 }
 
 export default App;
