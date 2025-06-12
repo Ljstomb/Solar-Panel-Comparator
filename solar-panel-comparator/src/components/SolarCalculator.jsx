@@ -1,3 +1,0 @@
-import React, { useState, useEffect } from 'react';
-... [shortened for display purposes: code will be complete in the file] ...
-export default SolarCalculator;
